@@ -78,7 +78,7 @@ export default class app extends React.Component {
       
       <Box>
         
-        <Titulo>Crônometro</Titulo>
+        <Titulo>Cronômetro</Titulo>
         <Numero>{this.state.num}</Numero>
         <div>
         <Botao onClick={this.start}>Start</Botao>
